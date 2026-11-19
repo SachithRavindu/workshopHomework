@@ -1,3 +1,5 @@
+// add a comment 
+
 const root = document.documentElement;
 
 const themeToggle = document.querySelector("[data-theme-toggle]");
